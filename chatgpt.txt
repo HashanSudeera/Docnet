@@ -1,0 +1,36 @@
+Main Menu:
+[1] Random IP Generator
+[2] IP Address Info
+[3] Subnet Manager
+[4] View IP History
+[5] Save IP History
+[6] Help & About
+[7] Exit
+
+Submenus:
+
+Random IP Generator:
+    [1] Generate Random IP
+    [2] Back to Main Menu
+
+IP Address Info:
+    [1] Enter IP Address
+    [2] Back to Main Menu
+
+Subnet Manager:
+    [1] Add Subnet
+    [2] List Subnets
+    [3] Back to Main Menu
+
+View IP History:
+    [1] Show IP History
+    [2] Back to Main Menu
+
+Save IP History:
+    [1] Save IP History to File
+    [2] Back to Main Menu
+
+Help & About:
+    [1] Help
+    [2] About
+    [3] Back to Main Menu
