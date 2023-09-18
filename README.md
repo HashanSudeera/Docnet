@@ -1,123 +1,76 @@
-# Main menu
+<!-- Project Title -->
+#  <span style="color:yellow">#DOCNET+</span>
 
--------------------------------
-Docnet+
-------------------------------
-[1] = Random Ip Generator
-[2] = IP Address Info
-[3] = Subnet Manager
-[4] = View ip history
-[5] = Save 
-[6] = Help & About
-[7] = Exit
-_________________________________
-## Enter the number for your choice :  
+<!-- Project Description -->
+  
+
+<!-- Badges (Optional) -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
+<!-- Table of Contents -->
+## <span style="color:lightblue">Aplication Menus </span>
+- [[1]Random IP Generator](#1)
+- [[2]IP Address Info](#2)
+- [[3]Subnet Manager](#3)
+- [[4]View IP History](#4)
+- [[5] Save IP History](#5)
+- [[6] Help & About](#6)
+- [7] Exit
 
-
-
-
-#####################################################################################################
-
-
-
-[1] = Random Ip Generator [sub menu]
-
-
-____________________________________________________________________
-     _                   ___ _     __                        
-    |_) _  _  _| _ __     | |_)   /__ _  _  _   _ _ _|_ _   _
-    | \(_|| |(_|(_)|||   _|_|     \_|(/_| |(/_ | (_| |_(_) | 
-____________________________________________________________________
-=============================  
-[1] = Generate Random IP Address
-[2] = Generate Random IP Specific for class
-[0] = Back to Main menu
-_________________________________
-Enter the number for your choice :
-=================================
+<!-- Features Section -->
+## <span style="color:lightblue">Features</span>
+- ✨ Generate ramdom ip address
+- ✨ All details in your input ip address
+- ✨ Save ip info in csv file
 
 
 
-#####################################################################################################
+<!-- About Section -->
+## <span style="color:lightblue">About</span>
+This Application Dev by **Glitch Squad**
+####  Team Menbers
+### <span style="color:green">Umesh,Sudeera,Nimuthu</span>
 
 
-[2] = IP Address Info
-____________________________________________________________________
+<!-- Demo Section -->
+## <span style="color:lightblue">Use Python Standard Library</span>
+	
+- ipaddress
+- random
+- csv
 
-IP Address Info
-____________________________________________________________________
-==============================
-Enter Ip Address :
-------------------------------
-[0] = Back to main menu 
-
-
-
-output
----------------------------------------
-1.Binary notation
-2.Defult mask \
-3.Network Address    \
-4.Broadcast Address \
-5.Ip range
-6.Network and Host Portions
-7.class \
--------------------------------------
-
-#####################################################################################################
-
-
-[3] = Subnet Manager
-
-____________________________________________________________________
-
-Subnet Manager
-____________________________________________________________________
-
-[1] = Fixed lenght subnet mask (FLSM)
-[2] = veriable lenght subnet mask (VLSM)
-[0] = Back to Main menu
-_________________________________
-Enter the number for your choice :
-=================================
+<!-- Getting Started Section -->
+## <span style="color:lightblue">Thank You</span>
 
 
 
-
-output
-FLSM-fixed lenght subnet mask
-                N/A
-                B/A
-                ip range
-                no of usable host
-                subnet mask
-VLSM-veriable lenght subnet mask
-                N/A
-                B/A
-                ip range
-                no of usable host
-                subnet mask
-
-
-#########################################################
-
-
-
-[6] = Help & About
-____________________________________________________________________
-                            _        _           
-                    |_| _ ||_)  |   |_||_  _    _|_
-                    | |(/_||    |   | ||_)(_)|_| |_
-____________________________________________________________________
-================================
-[1] = Help
-[2] = About
-[0] = Back to main menu 
-_________________________________
-Enter the number for your choice :
-=================================
+## [1]
+### Random_IP_Generator
+    [1] = Generate Random IP Address
+    [2] = Generate Random IP Specific for class
+    [0] = Back to Main menu
+## [2]
+### IP Address Info:
+    [1] Enter IP Address
+    [2] Back to Main Menu
+## [3]
+### Subnet Manager:
+    [1] = Fixed lenght subnet mask (FLSM)
+    [0] = Back to Main menu  
+## [4]
+### View IP History:
+    Show IP History
+    [2] Back to Main Menu
+## [5]
+### Save IP History:
+    Save IP History to File
+    [2] Back to Main Menu
+## [6]
+### Help & About:
+    [1] Help
+    [2] About
+    [3] Back to Main Menu
 
 
 
@@ -134,25 +87,6 @@ Enter the number for your choice :
 
 
 
-
-
-
-
-
-[3]
-____________________________________________________________________
-          __                   __                       
-         (_    |_  _  _ _|_   /   _ | _    | _ _|_ _   _
-         __)|_||_)| |(/_ |_   \__(_||(_ |_||(_| |_(_) | 
-____________________________________________________________________
-================================
-
-[1] = Class Ip Address
-[2] = Classless Ip Address                          
-[0] = Back to main menu             
-_________________________________
-Enter the number for your choice :
-=================================
 
 
 
